@@ -21,4 +21,4 @@ Todas las aplicaciones que usaremos serán gratuitas y estarán disponibles para
 
 Sesiones:
 
-4-11-18-25 Noviembre 2020
+4-18-25 Noviembre y 2 Diciembre 2020
