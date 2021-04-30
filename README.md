@@ -3,10 +3,8 @@
 
 ![Licencia](./images/Licencia_CC.png)
 
-4 sesiones online
-Abril 2021
 
-## Duración
+Abril 2021
 
 
 
