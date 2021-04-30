@@ -13,6 +13,7 @@ m0:
 					-o  $(m0)  \
 					Cabecera.md        \
 					Cabecera_latex.md \
+					0.0_Indice.md \
 					0.1_Introduccion.md \
 					0.2_RecursosMateriales.md \
 					0.3_SoftwareNecesario.md \

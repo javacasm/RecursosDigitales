@@ -10,19 +10,18 @@ Abril 2021
 
 
 
-[Índice](./0.0_Indice.md)
+## Índice
 
-Creación de contenidos sonoros
+Grabación y edición de audio
 
-Podcast
+* Creación de contenidos sonoros
+* Edición con Audacity
+* Podcasts
 
 Creación de contenicos audiovisuales
-
-Grabación de videotutoriales
-
-* VokoScreen
-* OBS
-
-Edición de vídeo
-
-* OpenShot
+* Grabación de videotutoriales
+    * VokoScreen
+    * OBS
+* Edición de vídeo
+    * OpenShot
+* Publicación en YouTube
