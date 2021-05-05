@@ -28,6 +28,7 @@ m1:
 					Cabecera_latex.md \
 					1.0_GrabacionAudio.md \
 					1.1_Audacity.md \
+					1.2.Edicion_audio_moviles.md \
 					1.3_BancosSonidosMusica.md \
 					2.0_Podcast.md
 				
